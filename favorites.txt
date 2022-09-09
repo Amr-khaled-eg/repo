@@ -1,3 +1,6 @@
-meat
-rice
-pasta
+foods:
+    meat
+    rice
+    pasta
+movies:
+    inception
